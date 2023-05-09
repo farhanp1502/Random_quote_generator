@@ -1,0 +1,29 @@
+body {
+  background-color: aqua;
+  text-align: center;
+  font-size: x-large;
+  margin: 10px;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container {
+  border: solid 15px white;
+  /* /* width: 90%; */
+  height: 80vh; 
+  background-color: #43d8cc;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: row;
+  padding: 40px;
+}
+.but {
+  margin-top: 20px;
+}
+
